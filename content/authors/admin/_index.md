@@ -1,7 +1,7 @@
 ---
 title: Siyuan Zhang
 role: Undergraduate Student in Computer Science and Technology
-avatar_filename: _dsc1545-copy.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
