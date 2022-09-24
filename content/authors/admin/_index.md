@@ -2,12 +2,12 @@
 title: Siyuan Zhang
 role: Undergraduate Student in Computer Science and Technology
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include HPC, MLSYS, HPC+AI, AI4Science, CG&CV&CP
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - High Performance Computing
+  - Machine Learning System
+  - HPC+AI
+  - AI4Science
 social:
   - icon: envelope
     icon_pack: fas
