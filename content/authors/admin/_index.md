@@ -2,7 +2,8 @@
 title: Siyuan Zhang
 role: Undergraduate Student in Computer Science and Technology
 avatar_filename: avatar.jpg
-bio: My research interests include HPC, MLSYS, HPC+AI, AI4Science, CG&CV&CP
+bio: My research interests include HPC, HPC Scheduler, Profiler, MLSYS, HPC+AI,
+  AI4Science, CG&CV&CP
 interests:
   - High Performance Computing
   - Machine Learning System
