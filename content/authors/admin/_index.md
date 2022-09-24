@@ -1,6 +1,6 @@
 ---
 title: Siyuan Zhang
-role: Undergraduate Student from Shanghaitech University
+role: Undergraduate Student in Computer Science and Technology
 avatar_filename: _dsc1545-copy.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghaitech University
+    url: https://www.shanghaitech.edu.cn/
 education:
   courses:
     - course: B.Eng in Computer Science and Technology
@@ -38,7 +38,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: zhangsy3@shanghaitech.edu.cn
 superuser: true
 highlight_name: true
 ---
